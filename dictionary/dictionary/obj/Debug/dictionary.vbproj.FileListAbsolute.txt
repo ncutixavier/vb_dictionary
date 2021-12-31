@@ -1,0 +1,11 @@
+F:\Project\vb_dictionary\dictionary\dictionary\bin\Debug\dictionary.exe.config
+F:\Project\vb_dictionary\dictionary\dictionary\bin\Debug\dictionary.exe
+F:\Project\vb_dictionary\dictionary\dictionary\bin\Debug\dictionary.pdb
+F:\Project\vb_dictionary\dictionary\dictionary\bin\Debug\dictionary.xml
+F:\Project\vb_dictionary\dictionary\dictionary\obj\Debug\dictionary.Form1.resources
+F:\Project\vb_dictionary\dictionary\dictionary\obj\Debug\dictionary.Resources.resources
+F:\Project\vb_dictionary\dictionary\dictionary\obj\Debug\dictionary.vbproj.GenerateResource.Cache
+F:\Project\vb_dictionary\dictionary\dictionary\obj\Debug\dictionary.exe
+F:\Project\vb_dictionary\dictionary\dictionary\obj\Debug\dictionary.xml
+F:\Project\vb_dictionary\dictionary\dictionary\obj\Debug\dictionary.pdb
+F:\Project\vb_dictionary\dictionary\dictionary\bin\Debug\Dictionary.accdb
